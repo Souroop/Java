@@ -23,7 +23,7 @@ class Duck implements Flyable,Swimmable{
 		swim();
 	}
 }
-public class Eight {
+public class Interface {
 	public static void main(String[]args) {
 		Duck duck=new Duck("Donald");
 		System.out.println("Duck Details: ");
