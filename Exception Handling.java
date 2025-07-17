@@ -1,6 +1,6 @@
 package learn;
 
-public class Assignment3q2 {
+public class Exception_handling{
 	public static void main(String[]args) {
 		try {
 			String[]colour= {"Red","Blue","Green","Yellow","Golden"};
