@@ -18,3 +18,9 @@ This java program demonstrates the concept of method overriding in Object Orient
  * A superclass defines a method with a general behaviour.
  * A subclass extends the superrclass and overrides that method with a more specific behaviour.
  * At runtime, the overriden method in the subclass is invoked even if the object is referred to      by a superclass reference--showcasing dynamic method dispatch. 
+
+RECURSION:
+This java program demonstrates the use of recursion, a technique where a method calls itself to solve smaller instances of a problem. The program showcase a classic example of recursion by calculating the factorial of a given number.
+ * The class Recursion contains a factorial(int n) method.
+ * The method calculates the factoral of a number recursively.
+ * The main method calls this method and prints the result. 
