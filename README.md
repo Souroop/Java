@@ -13,3 +13,8 @@ This java program ilustrates the concept of inheritance, where a subclass inheri
  * Manager class extends the Employee class and adds a new attribute department.
  * The program demonstrates how the subclass can call methods from the superclass using the super keyword
 
+METHOD OVERRIDING:
+This java program demonstrates the concept of method overriding in Object Oriented Programming (OOPs) using inheritance.It defines a superclass with a method that is overriden by a subclass to provide a specific implementation.
+ * A superclass defines a method with a general behaviour.
+ * A subclass extends the superrclass and overrides that method with a more specific behaviour.
+ * At runtime, the overriden method in the subclass is invoked even if the object is referred to      by a superclass reference--showcasing dynamic method dispatch. 
