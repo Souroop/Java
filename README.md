@@ -27,3 +27,10 @@ This java program demonstrates the use of recursion, a technique where a method 
 
 INTERFACE:
 This program demonstrates the use of interfaces in Java to achieve abstraction and polymorphism. It defines a common contract(an interface) and shows how multiple classes implement that contract with their own behaviour. A driver section then exercises the code to illustrate runtime polymorphism (calling method on the interface reference without knowing the concrete class at compile time).
+
+EXCEPTION HANDLING:
+This java program demonstrates how to handle runtime exceptions using try-catch blocks. Specifically, it showscases how to handle an ArrayIndexOutOfBoundsException when accessing elements outside the bounds of an array.
+ Important Concepts:
+ * ArrayIndexOutOfBoundsException: Thrown when attempting to access an array index that does not    exist.
+ * NullPointerException: Demonstrates a second exception type(though not triggered in this code).
+ * Try-Catch Blocks: Used to catch and handle the exception at runtime, ensuring the program        does not crash
