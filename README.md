@@ -23,4 +23,7 @@ RECURSION:
 This java program demonstrates the use of recursion, a technique where a method calls itself to solve smaller instances of a problem. The program showcase a classic example of recursion by calculating the factorial of a given number.
  * The class Recursion contains a factorial(int n) method.
  * The method calculates the factoral of a number recursively.
- * The main method calls this method and prints the result. 
+ * The main method calls this method and prints the result.
+
+INTERFACE:
+This program demonstrates the use of interfaces in Java to achieve abstraction and polymorphism. It defines a common contract(an interface) and shows how multiple classes implement that contract with their own behaviour. A driver section then exercises the code to illustrate runtime polymorphism (calling method on the interface reference without knowing the concrete class at compile time).
